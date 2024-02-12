@@ -1,2 +1,2 @@
-# Ejercicio-RegresionLineal
-Regresión lineal de un fichero de datos CSV.
+# 2doExamenParcial
+Ficheros fuente del modelo de regresión lineal, notebook online y README
