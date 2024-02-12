@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/extoeigen.h
+iostream
+-
+fstream
+-
+eigen3/Eigen/Dense
+-
+vector
+-
+
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/main.cpp
+extoeigen.h
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/extoeigen.h
+modellinealregression.h
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/modellinealregression.h
+iostream
+-
+vector
+-
+stdlib.h
+-
+cmath
+-
+boost/algorithm/string.hpp
+-
+
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/modellinealregression.h
+eigen3/Eigen/Dense
+-
+iostream
+-
+cmath
+-
+vector
+-
+

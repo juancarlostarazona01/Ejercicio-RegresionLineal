@@ -1,0 +1,3 @@
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/Debug/CMakeFiles/rebuild_cache.dir
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/Debug/CMakeFiles/edit_cache.dir
+/home/juan/Documentos/ML_Avanzada/RegresionLineal/Debug/CMakeFiles/RegresionLineal.dir
